@@ -1,6 +1,6 @@
 let resumeData = {
    "name": "Rizvi Mohd Hussain",
-"role": "Android application developer and Web developer",
+   "role": "Software Engineer",
     "linkedinId":"https://www.linkedin.com/in/mohd-hussain-rizvi-10899b164",
     
     "skypeid": "https://twitter.com/Hussain100599",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a final year student at The M.H.saboo siddik college of engineering and pursuing my B.E. from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a recent graduate from M.H.Saboo Siddik College Of Engineering. Working as a Software Developer in IT company , currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
     "mobileno":"+91-9833715470",
     "education":[
@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Bachelor of Engineering (Computer Engineering)",
         "MonthOfPassing":"June",
         "YearOfPassing":"2020",
-        "CGPA":"7.31 CGPA (till 6th sem.)"
+        "CGPA":"7.56 CGPA"
       },
       {
         "UniversityName":"M.H.Saboo Siddik Polytechnic",
@@ -49,6 +49,14 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"WonderBiz Technologies",
+        "specialization":"Software Developer",
+        "DESCRIPTION": "WonderBiz is a IT solution provider",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2020",
+        "Achievements":"Experienced in Dot Net MVC framework. Worked on multi user web application along with SQL database connectivity. Mainly worked on API building  and integrating web app with API. Understood software development life cycle. Have decent experience in testing domain as well."
+      },
       {
         "CompanyName":"WayForLife",
         "specialization":"Android application development intern",
